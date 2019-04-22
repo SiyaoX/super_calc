@@ -1,3 +1,6 @@
 [submodule "sub_uisub_ui"]
 	path = sub_uisub_ui
 	url = https://github.com/SiyaoX/sub_uisub_ui
+[submodule "sub_ui"]
+	path = sub_ui
+	url = https://github.com/SiyaoX/sub_ui
